@@ -1,6 +1,6 @@
 # Elysium API
 
-A **Elysium API** é uma API RESTful desenvolvida para [descrição do seu projeto], oferecendo funcionalidades como [listar as funcionalidades principais, como CRUD, autenticação, etc.]. Ela foi construída utilizando **[Tecnologias utilizadas, como Node.js, TypeScript, Express, etc.]** e visa proporcionar uma maneira eficiente e escalável de [objetivo da API].
+A **Elysium API** é uma API RESTful desenvolvida para [descrição do seu projeto], oferecendo funcionalidades como [listar as funcionalidades principais, como CRUD, autenticação, etc.]. Ela foi construída utilizando **[Tecnologias utilizadas, como Node.js, TypeScript, Express, etc.]** e visa proporcionar uma maneira eficiente e escalável de facilidade para uso.
 
 ## Funcionalidades
 
