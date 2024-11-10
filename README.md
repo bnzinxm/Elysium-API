@@ -12,8 +12,8 @@ A **Elysium API** é uma API RESTful desenvolvida para [descrição do seu proje
 
 - **Node.js**: Ambiente de execução JavaScript no servidor.
 - **TypeScript**: Superset do JavaScript para um código mais robusto.
-- **Express**: Framework para criar APIs em Node.js.
-- **[Outras tecnologias que você usou, como banco de dados, ORM, etc.]**
+- **Fastify**: Framework para criar APIs em Node.js.
+- **[Outras tecnologias que você usou, como MongoDB, ORM, etc.]**
 
 ## Instalação
 
