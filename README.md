@@ -1,3 +1,3 @@
 # Elysium API
 
-Testando alteração no README.
+Uma simples api em desenvolvimento.
