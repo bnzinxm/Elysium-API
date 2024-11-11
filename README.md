@@ -1,6 +1,6 @@
 # Elysium API
 
-A **Elysium API** é uma API RESTful desenvolvida para [descrição do seu projeto], oferecendo funcionalidades como [listar as funcionalidades principais, como CRUD, autenticação, etc.]. Ela foi construída utilizando **[Tecnologias utilizadas, como Node.js, TypeScript, Fastify, MongoDB, etc.]** e visa proporcionar uma maneira eficiente e escalável de facilidade para uso.
+A **Elysium API** é uma API RESTful desenvolvida para autenticação, oferecendo funcionalidades como [listar as funcionalidades principais, como CRUD, autenticação, etc.]. Ela foi construída utilizando **[Tecnologias utilizadas, como Node.js, TypeScript, Fastify, MongoDB, etc.]** e visa proporcionar uma maneira eficiente e escalável de facilidade para uso.
 
 ## Funcionalidades
 
@@ -22,7 +22,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SeuUsuario/Elysium-API.git
+git clone https://github.com/bnzinxm/Elysium-API.git
 cd Elysium-API
 ```
 
